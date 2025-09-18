@@ -3,8 +3,9 @@
 
 ## I. History
 https://en.wikipedia.org/wiki/Markdown
-
 [Wikipedia - Markdown](https://en.wikipedia.org/wiki/Markdown)
+rit.edu
+[RIT](rit.edu)
 
 ## II. Uses
 Documentation for software projects on GitHub
@@ -28,5 +29,7 @@ and display images in a markdown document?
 
 
 ## IV. Other
+
+https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848
 ![Dopey Smurf](https://vignette.wikia.nocookie.net/smurfs/images/0/0d/Dopey4.JPG/revision/latest/scale-to-width-down/240?cb=20180929070848)
 :joy:
