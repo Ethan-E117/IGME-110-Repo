@@ -3,8 +3,11 @@
 
 ## I. History
 https://en.wikipedia.org/wiki/Markdown
+
 [Wikipedia - Markdown](https://en.wikipedia.org/wiki/Markdown)
+
 rit.edu
+
 [RIT](rit.edu)
 
 ## II. Uses
